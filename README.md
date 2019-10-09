@@ -5,7 +5,7 @@ curtidas e posts sendo mostrados para mais de um usuario
 
 <h1 align="center">
 
-![](images/clone_face.png)
+(images/clone_face.png)
 
 </h1>
 
