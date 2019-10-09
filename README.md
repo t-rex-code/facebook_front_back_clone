@@ -6,7 +6,6 @@ curtidas e posts sendo mostrados para mais de um usuario
 <h1 align="center">
 
 ![](resource/views/images/image1.png)
-![](resource/views/images/image2.png)
 
 </h1>
 
