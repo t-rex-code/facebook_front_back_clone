@@ -12,3 +12,10 @@ curtidas e posts sendo mostrados para mais de um usuario
 <h3 align="center">
 Feito com adonis no back-end, banco de dados postgres
 </h3>
+
+<h3 align="center"> Proximas features
+  <ul>
+    <li>Notificações no campo lateral</li>
+    <li>Comentarios em real time</li>
+  </ul>
+</h3>
