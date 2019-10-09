@@ -1,28 +1,14 @@
-# Adonis API application
+## Overview
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+Projeto para demostração da construção de layout semelhante ao Facebook, usando websocket para
+curtidas e posts sendo mostrados para mais de um usuario
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+<h1 align="center">
 
-## Setup
+![](images/image1.png)
 
-Use the adonis command to install the blueprint
+</h1>
 
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+<h3 align="center">
+Feito com adonis no back-end
+</h3>
