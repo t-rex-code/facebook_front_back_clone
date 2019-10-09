@@ -5,10 +5,10 @@ curtidas e posts sendo mostrados para mais de um usuario
 
 <h1 align="center">
 
-![](images/image1.png)
+![](images/clone_face.png)
 
 </h1>
 
 <h3 align="center">
-Feito com adonis no back-end
+Feito com adonis no back-end, banco de dados postgres
 </h3>
